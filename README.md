@@ -107,7 +107,7 @@ Currently exploring Deep Learning concepts like CNNs and RNNs while trying to un
   <a href="https://www.kaggle.com/aiadityaranjan" target="_blank">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/kaggle-icon.png" width="55" />
     <br />
-    <sub><b>Email</b></sub>
+    <sub><b>Kaggle</b></sub>
   </a>
 </td>
 </tr>
