@@ -1,9 +1,9 @@
 <div align="center">
   <img src="header.png" width="450"/>
 </div>
-<p align="center">
+<h4 align="center">
   Turning ideas into intelligent applications through AI, Machine Learning, and continuous learning.
-</p>
+</h4>
 
 <br>
 <div align="center">
