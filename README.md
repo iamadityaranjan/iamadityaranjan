@@ -96,7 +96,7 @@ Currently exploring Deep Learning concepts like CNNs and RNNs while trying to un
 </tr>
 </table>
 
-## 🌐 Profiles & Links
+## 💼 Profiles & Links
 
 <p align="center">
 
@@ -118,14 +118,18 @@ Currently exploring Deep Learning concepts like CNNs and RNNs while trying to un
 
 </p>
 
-## ⚡Github Stats
+## 🔥 Contribution Journey
 <p align="center">
   <img src="https://github.com/iamadityaranjan/iamadityaranjan/blob/output/pacman-contribution-graph-dark.svg" />
+</p>
+
+## 🌌 Activity Dashboard
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamadityaranjan&theme=redical&hide_border=true" />
 </p>
 
 <p align="center">
   <img width="100%" height="260"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamadityaranjan&theme=radical" />
 </p>
-
-
