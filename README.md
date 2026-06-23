@@ -7,7 +7,7 @@
 
 <br>
 <div align="center">
-  <img src="Pixelated Image.png" width="800"/>
+  <img src="banner2.png" width="800"/>
 </div>
 
 <br>
