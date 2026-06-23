@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=98FB98&center=true&vCenter=true&width=700&lines=AIML+Student;Always+Learning+Something+New;Exploring+Langchain" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=98FB98&center=true&vCenter=true&width=700&lines=AI-DS+Student;Always+Learning+Something+New;Exploring+Langchain" />
 </p>
 
 ## 🚀 About Me
@@ -133,3 +133,8 @@ Currently exploring Deep Learning concepts like CNNs and RNNs while trying to un
   <img width="100%" height="260"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamadityaranjan&theme=radical" />
 </p>
+
+## 📜 What Led Me Here
+<div align="center">
+  <img src="journey_ribbon.png" alt="My AI Journey" width="285">
+</div>
