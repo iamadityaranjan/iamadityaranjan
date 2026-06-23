@@ -2,7 +2,7 @@
   <img src="header.png" width="450"/>
 </div>
 <h4 align="center">
-  Turning ideas into intelligent applications through AI, Machine Learning, and continuous learning.
+  AI & Data Science Student | Curious Learner | Project Builder
 </h4>
 
 <br>
@@ -39,7 +39,7 @@ Currently exploring Deep Learning concepts like CNNs and RNNs while trying to un
 
 <td width="35%" align="center">
 
-<img src="coding.gif" width="320" height="400"/>
+<img src="gaming.gif" width="320" height="350"/>
 
 </td>
 
