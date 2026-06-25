@@ -136,5 +136,5 @@ Currently exploring Deep Learning concepts like CNNs and RNNs while trying to un
 
 ## 📜 What Led Me Here
 <div align="center">
-  <img src="journey.png" alt="My AI Journey" width="1000" height = "1200">
+  <img src="journey.png" alt="My AI Journey" width="1200" height = "1200">
 </div>
