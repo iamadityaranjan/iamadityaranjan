@@ -24,7 +24,6 @@
 <td width="65%">
 
 <p align="left">
-  <br>
   <img src="https://komarev.com/ghpvc/?username=iamadityaranjan&label=PROFILE+VIEWS&color=orange&style=for-the-badge"/>
 </p>
 
