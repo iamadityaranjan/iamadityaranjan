@@ -27,12 +27,13 @@
   <img src="https://komarev.com/ghpvc/?username=iamadityaranjan&label=PROFILE+VIEWS&color=orange&style=for-the-badge"/>
 </p>
 
-Currently exploring Deep Learning concepts like CNNs and RNNs while trying to understand the core logic behind how things actually work. I enjoy implementing concepts, learning something new every day, pixelated art, cozy coding vibes, and a good cup of tea ☕
+Currently exploring Retrieval-Augmented Generation (RAG), LangChain, vector databases, and embeddings while trying to understand how modern LLM applications work under the hood. I enjoy turning concepts into projects, learning something new every day, pixelated art, and a good cup of tea ☕
 
-- 🌍 Based in Pune
-- 🚀 Working on [Zimo AI](https://zimoai.vercel.app/)
-- ✉️ You can contact me at ai.adityaranjan@gmail.com
-- 🧠 Learning Convolutional Neural Networks
+* 🌍 Based in Pune
+* 🔬 Building AI projects and experimenting with RAG pipelines
+* ✉️ You can contact me at [ai.adityaranjan@gmail.com](mailto:ai.adityaranjan@gmail.com)
+* 🧠 Currently learning Agentic AI and advanced LLM workflows
+
 
 </td>
 
@@ -133,7 +134,10 @@ Currently exploring Deep Learning concepts like CNNs and RNNs while trying to un
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamadityaranjan&theme=radical" />
 </p>
 
-## 📜 What Led Me Here
-<div align="center">
-  <img src="journey.png" alt="My AI Journey" width="600" height = "800">
-</div>
+## 🌱 My Journey
+
+Every project in this profile represents something I didn't know before starting it.
+
+I'm not trying to build hundreds of repositories—I'm trying to understand the fundamentals behind AI and software development. Whether it's CNNs, RNNs, LangChain, or a simple Python project, I enjoy learning by experimenting and building.
+
+My goal is to become an engineer who understands the "why" behind the code, not just the syntax.
