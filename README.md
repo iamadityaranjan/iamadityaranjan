@@ -69,8 +69,6 @@ Currently exploring Retrieval-Augmented Generation (RAG), LangChain, vector data
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,tailwind" />
-
-  <img src="https://github.com/iamadityaranjan/langchain-practice/blob/main/Images/langchain_logo.png" height="35"/>
 </p>
 
 </td>
