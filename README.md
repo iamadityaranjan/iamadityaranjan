@@ -141,3 +141,7 @@ Every project in this profile represents something I didn't know before starting
 I'm not trying to build hundreds of repositories—I'm trying to understand the fundamentals behind AI and software development. Whether it's CNNs, RNNs, LangChain, or a simple Python project, I enjoy learning by experimenting and building.
 
 My goal is to become an engineer who understands the "why" behind the code, not just the syntax.
+
+And since music is a big part of my journey too, you'll find my current favorite song mentioned below. 🎧
+
+<img src="spotify.gif" width="950" height="650"/>
