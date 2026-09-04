@@ -126,7 +126,11 @@ Currently exploring Retrieval-Augmented Generation (RAG), LangChain, vector data
 ## 🌌 Activity Dashboard
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamadityaranjan&theme=redical&hide_border=true" />
+  <img
+    src="https://raw.githubusercontent.com/iamadityaranjan/iamadityaranjan/activity-graph/activity-graph.svg"
+    alt="GitHub Activity Graph"
+    width="100%"
+  />
 </p>
 
 <p align="center">
