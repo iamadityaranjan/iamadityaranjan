@@ -1,20 +1,8 @@
 <div align="center">
   <img src="header.png" width="450"/>
 </div>
-<h4 align="center">
-  AI & Data Science Student | Curious Learner | Project Builder
-</h4>
 
 <br>
-<div align="center">
-  <img src="banner2.png" width="800"/>
-</div>
-
-<br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=98FB98&center=true&vCenter=true&width=700&lines=AI-DS+Student;Always+Learning+Something+New;Exploring+Langchain" />
-</p>
 
 ## 🚀 About Me
 
@@ -48,48 +36,74 @@ Currently exploring Retrieval-Augmented Generation (RAG), LangChain, vector data
 
 ---
 
-# 🛠️ Skills
+🛠️ Skills
 
 <table width="100%">
 <tr>
 
-<td valign="top" width="25%">
+<td valign="top" width="33%">
 
-### 💻 Languages
+💻 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css" />
 </p>
 
 </td>
 
-<td valign="top" width="25%">
+<td valign="top" width="33%">
 
-### ⚡ Frameworks
+⚡ Frameworks & AI
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,fastapi,langchain" />
 </p>
 
 </td>
 
-<td valign="top" width="25%">
+<td valign="top" width="33%">
 
-### 🗄️ Databases
+🗄️ Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
 </td>
 
-<td valign="top" width="25%">
+</tr>
 
-### 🛠️ Tools & Design
+<tr>
+
+<td valign="top" width="33%">
+
+🤖 AI & Agentic Systems
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+<a href="https://www.langchain.com/">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+</a>
+<a href="https://www.langchain.com/langgraph">
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphviz&logoColor=white" alt="LangGraph"/>
+</a>
+<a href="https://modelcontextprotocol.io/">
+<img src="https://img.shields.io/badge/MCP%20Servers-6B4FBB?style=for-the-badge&logo=protocols.io&logoColor=white" alt="MCP Servers"/>
+</a>
 </p>
+
+</td>
+
+<td valign="top" width="33%">
+
+🛠️ Tools & DevOps
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode" />
+</p>
+
+</td>
+
+<td valign="top" width="33%">
 
 </td>
 
@@ -137,15 +151,3 @@ Currently exploring Retrieval-Augmented Generation (RAG), LangChain, vector data
   <img width="100%" height="260"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamadityaranjan&theme=radical" />
 </p>
-
-## 🌱 My Journey
-
-Every project in this profile represents something I didn't know before starting it.
-
-I'm not trying to build hundreds of repositories—I'm trying to understand the fundamentals behind AI and software development. Whether it's CNNs, RNNs, LangChain, or a simple Python project, I enjoy learning by experimenting and building.
-
-My goal is to become an engineer who understands the "why" behind the code, not just the syntax.
-
-And since music is a big part of my journey too, you'll find my current favorite song mentioned below. 🎧
-
-<img src="spotify.gif" width="950" height="650"/>
