@@ -81,16 +81,17 @@ Currently exploring Retrieval-Augmented Generation (RAG), LangChain, vector data
 
 <p align="left">
   <a href="https://www.langchain.com/">
-    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+    <img src="/langchain.svg" height=35 alt="LangChain"/>
   </a>
+   &nbsp;
   <a href="https://www.langchain.com/langgraph">
-    <img src="https://img.shields.io/badge/LangGraph-2E7D6B?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph"/>
+    <img src="/langgraph.svg" height=35 alt="LangGraph"/>
   </a>
+   &nbsp;
   <a href="https://modelcontextprotocol.io/">
-    <img src="https://img.shields.io/badge/MCP-6C47FF?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP"/>
+    <img src="/mcp.svg" height=35 alt="MCP"/>
   </a>
 </p>
-
 </td>
 
 <td valign="top" width="33%">
