@@ -80,15 +80,15 @@ Currently exploring Retrieval-Augmented Generation (RAG), LangChain, vector data
 🤖 AI & Agentic Systems
 
 <p align="left">
-<a href="https://www.langchain.com/">
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
-</a>
-<a href="https://www.langchain.com/langgraph">
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphviz&logoColor=white" alt="LangGraph"/>
-</a>
-<a href="https://modelcontextprotocol.io/">
-<img src="https://img.shields.io/badge/MCP%20Servers-6B4FBB?style=for-the-badge&logo=protocols.io&logoColor=white" alt="MCP Servers"/>
-</a>
+  <a href="https://www.langchain.com/">
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  </a>
+  <a href="https://www.langchain.com/langgraph">
+    <img src="https://img.shields.io/badge/LangGraph-2E7D6B?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph"/>
+  </a>
+  <a href="https://modelcontextprotocol.io/">
+    <img src="https://img.shields.io/badge/MCP-6C47FF?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP"/>
+  </a>
 </p>
 
 </td>
