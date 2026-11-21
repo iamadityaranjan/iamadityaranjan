@@ -1,0 +1,125 @@
+<div align="center">
+  <img src="/Resources/name-header.png" width="450"/>
+</div>
+
+<br>
+
+## 🚀 About Me
+
+<table>
+<tr>
+
+<td width="65%">
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=iamadityaranjan&label=PROFILE+VIEWS&color=orange&style=for-the-badge"/>
+</p>
+
+Currently exploring Retrieval-Augmented Generation (RAG), LangChain, vector databases, and embeddings while trying to understand how modern LLM applications work under the hood. I enjoy turning concepts into projects, learning something new every day, pixelated art, and a good cup of tea ☕
+
+* Based in Pune
+* Building AI projects and experimenting with RAG pipelines
+* You can contact me at [ai.adityaranjan@gmail.com](mailto:ai.adityaranjan@gmail.com)
+* Currently learning Agentic AI and advanced LLM workflows
+
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="/Resources/gaming.gif" width="320" height="350"/>
+
+</td>
+
+</tr>
+</table> 
+
+---
+
+🛠️ Skills
+
+<table width="100%">
+<tr>
+
+<td valign="top" width="33%">
+
+Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css&theme=dark&perline=5" />
+</p>
+
+</td>
+
+<td valign="top" width="33%">
+
+Frameworks
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,fastapi&theme=dark" />
+</p>
+
+</td>
+
+<td valign="top" width="33%">
+
+Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top" width="33%">
+
+AI & Agentic Systems
+
+<p align="left">
+<img src="https://adityaranjan.skill-icons.workers.dev/icons?i=langchain,langgraph,mcp" />
+</p>
+</td>
+
+<td valign="top" width="33%">
+
+Tools & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode&theme=dark" />
+</p>
+
+</td>
+
+<td valign="top" width="33%">
+
+</td>
+
+</tr>
+</table>
+
+## 💼 Profiles & Links
+
+<p align="center">
+
+<a href="https://linkedin.com/in/adityavranjan">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45"/>
+</a>
+
+<a href="mailto:ai.adityaranjan@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="45"/>
+</a>
+
+<a href="https://www.kaggle.com/aiadityaranjan">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="45"/>
+</a>
+
+</p>
+
+## 🔥 Contribution Journey
+<p align="center">
+  <img src="https://github.com/iamadityaranjan/iamadityaranjan/blob/output/pacman-contribution-graph-dark.svg" />
+</p>
